@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(49): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(68): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(69): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(71): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(81): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(83): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(92): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“uint64_t”
+  c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(92): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\ember\documents\visual studio 2015\projects\aoi\aoi\main.cpp(92): note: 请考虑在格式字符串中使用“%I64u”
+  aoi.vcxproj -> C:\Users\Ember\documents\visual studio 2015\Projects\aoi\Debug\aoi.exe
+  aoi.vcxproj -> C:\Users\Ember\documents\visual studio 2015\Projects\aoi\Debug\aoi.pdb (Full PDB)
